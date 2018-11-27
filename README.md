@@ -1,4 +1,4 @@
-# RangeExpansionModel-Experimental-evolution-Van-Petegem---Moerman
+# RangeExpansionModel-Tetranychus
 
 code for: Van Petegem, K. H. P.; Moerman, F.; Dahirel, M.; Fronhofer, E. A.; Vandegehuchte, M. L.; Wybouw, N.; Leeuwen, T. V.; Stoks, R. & Bonte, D. Kin competition accelerates experimental range expansion in an arthropod herbivore Ecol. Lett., 2018, 21, 225-234
 
